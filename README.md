@@ -42,9 +42,7 @@ A simple and responsive web app to generate QR codes from any text or URL using 
 
 Just a modern browser. No installations or dependencies needed.
 
-## 📸 Screenshot
 
-![UI Preview](https://i.imgur.com/QrZ1D2y.png) *(Replace with actual screenshot if available)*
 
 ## 🧑‍💻 Author
 
